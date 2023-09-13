@@ -42,7 +42,6 @@ Outro assunto curioso em relação ao Android é que cada versão sempre foi nom
 - 1.5 - Cupcake 🧁
 - 1.6 - Donut 🍩
 - 2.2 - Froyo 🍦
-- ...
 
 Infelizmente, o **Android Q** não existiu, pois o Google resolveu pôr fim a essa divertida prática e começou a usar numerações, o que deu origem ao Android 10.
 
