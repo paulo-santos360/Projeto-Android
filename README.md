@@ -50,8 +50,6 @@ Acesse [aqui](https://paulo-santos360.github.io/Projeto-Android/) para conhecer 
 
 Espero que você tenha gostado desta curiosidade sobre o sistema **Android** e seu simpático mascote!
 
----
-
 **Este projeto foi criado por [Seu Nome] com ❤️ e ☕.**
 
 Sinta-se à vontade para contribuir para este projeto ou relatar problemas. 😊
